@@ -1,1 +1,5 @@
-# getx-example
+# getx_example
+
+GetXの簡単なサンプルです
+
+
